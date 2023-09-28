@@ -1,0 +1,6 @@
+{
+  "name": "jlr-dataform",
+  "dependencies": {
+    "@dataform/core": "2.4.2"
+  }
+}
